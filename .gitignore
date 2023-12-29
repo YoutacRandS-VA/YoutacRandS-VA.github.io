@@ -7,34 +7,12 @@
 /coverage
 
 # dependencies
-/node_modules
-yarn.lock
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-# !.vscode/settings.json
-# !.vscode/tasks.json
-# !.vscode/launch.json
-# !.vscode/extensions.json
 
 # compodoc
 /documentation
 
 # misc
 /.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
 testem.log
 tslint-to-eslint-config.log
 /typings
@@ -45,9 +23,6 @@ tslint-to-eslint-config.log
 /cypress/screenshots
 
 # System Files
-.DS_Store
-Thumbs.db
-.node-version
 
 # debug
 debug.log
